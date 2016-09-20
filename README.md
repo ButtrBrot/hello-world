@@ -1,2 +1,6 @@
 # hello-world
-first repository for practice
+It's first repository for practice
+
+Coffee is th most important thing in the morning
+
+Byee
